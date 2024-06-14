@@ -1,1 +1,0 @@
-# com.ivaj.udonbakeryadapter by javi
