@@ -5,7 +5,7 @@
   "description": "Describe this Package",
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.worlds": "3.6.1"
+    "com.vrchat.worlds": "^3.6.1"
   },
   "author": {
     "name": "Ivaj",
