@@ -1,11 +1,11 @@
 {
   "name": "com.ivaj.udonbakeryadapter",
   "displayName": "com.ivaj.udonbakeryadapter",
-  "version": "0.0.1",
-  "description": "Describe this Package",
+  "version": "0.0.2",
+  "description": "Bakery adapter for vrchat",
   "gitDependencies": {},
   "vpmDependencies": {
-    "com.vrchat.worlds": "3.6.1"
+    "com.vrchat.worlds": "^3.6.1"
   },
   "author": {
     "name": "Ivaj",
