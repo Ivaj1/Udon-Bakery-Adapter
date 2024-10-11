@@ -5,7 +5,8 @@ This repository provides a simple Udon Bakery Adaptor for integrating Bakery bak
 ## How to Use
 
 ### Prerequisites
-- Ensure Bakery is installed in your project. You can install the package via VRC Consortium Client (VCC) from [here](https://ivaj1.github.io/VPM-ivaj/).
+- Ensure Udon Bakery Adapter is installed in your project. You can install the package via VRC Consortium Client (VCC) from [here](https://ivaj1.github.io/VPM-ivaj/).
+- Ensure Bakery is installed in your project.
 
 ### Integration Steps
 1. Open a scene in your Unity project that has Bakery baked lightmaps.
