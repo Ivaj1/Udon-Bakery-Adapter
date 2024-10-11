@@ -1,9 +1,16 @@
-A simple Udon Bakery Adaptor for vrchat
+# Udon Bakery Adaptor for VRChat
 
-How to use
-You need to have bakery on your proyect
-instal the package via vcc https://ivaj1.github.io/VPM-ivaj/
-go to a scene that have a bakery baked lightmap
-go to bakery toolbar, select bakery adaptor
-click on bakery AddBakeryAdapter
-save the scene and build
+This repository provides a simple Udon Bakery Adaptor for integrating Bakery baked lightmaps into your VRChat project.
+
+## How to Use
+
+### Prerequisites
+- Ensure Bakery is installed in your project. You can install the package via VRC Consortium Client (VCC) from [here](https://ivaj1.github.io/VPM-ivaj/).
+
+### Integration Steps
+1. Open a scene in your Unity project that has Bakery baked lightmaps.
+2. Navigate to the Bakery toolbar in Unity.
+3. Select "Bakery Adaptor" from the toolbar options.
+4. Click on "AddBakeryAdapter" to integrate the Udon Bakery Adaptor.
+5. Save your scene.
+6. Build your project to incorporate the Bakery baked lightmaps.
