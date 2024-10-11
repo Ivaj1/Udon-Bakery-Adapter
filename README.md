@@ -1,6 +1,7 @@
 # Udon Bakery Adaptor for VRChat
 
-This repository provides a simple Udon Bakery Adaptor for integrating Bakery baked directionals lightmaps into your VRChat project.
+This repository provides a simple Udon Bakery Adaptor for integrating Bakery baked lightmaps into your VRChat project. 
+
 Please note that there is also an adaptor for volumes, which is currently unfinished and undocumented.
 
 ## How to Use
